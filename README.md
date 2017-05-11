@@ -114,7 +114,7 @@ valueAnimator.addUpdateListener(new ValueAnimator.AnimatorUpdateListener() {
 > 不好截图看开始的 gif 吧
 
 #### 连接状态
-这些状态之中就连接状态比较难点 , 我们就具体分析这个状态 , 看图
+这些状态之中就连接状态比较难点 , 我们就具体分析这个状态 , 看图  
 ![](https://images-cdn.shimo.im/8oeovf9q5o0DxRjv/snipaste_20170511_104229.png!thumbnail)
 
 图形主要分为三部分 圆A 圆B 及它们的连接图形(连接图形主要利用二阶贝塞尔曲线绘制)
